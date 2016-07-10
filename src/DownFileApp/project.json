@@ -9,6 +9,7 @@
       "type": "platform",
       "version": "1.0.0-rc2-3002702"
     },
+    "System.Collections.Specialized": "4.0.1-rc2-24027",
     "System.Net.Requests": "4.0.11-rc2-24027",    
   },
 
